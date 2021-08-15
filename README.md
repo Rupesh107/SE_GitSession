@@ -1,2 +1,2 @@
 # SE_GitSession
-'Introduction to GitHub' Session (14th August 2021)
+Software Engineering module : 'Introduction to GitHub and Git' Session (14th August 2021)
